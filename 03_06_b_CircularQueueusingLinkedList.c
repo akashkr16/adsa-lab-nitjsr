@@ -1,3 +1,8 @@
+//Name : Akash Kumar
+//Roll No. : 2025PGCSIS09
+
+//Implement a circular queue using (b) a linked list.
+
 #include <stdio.h>
 #include <stdlib.h>
 
