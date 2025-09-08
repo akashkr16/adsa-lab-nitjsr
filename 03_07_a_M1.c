@@ -2,7 +2,7 @@
 //Roll No. : 2025PGCSIS09
 
 //Implement a circular queue using (a) an array (b) a linked list.
-//(b)
+//(a)
 
 #include <stdio.h>
 #include <stdlib.h>
