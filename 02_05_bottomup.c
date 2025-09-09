@@ -1,3 +1,7 @@
+//Name : Akash Kumar
+//Roll No. : 2025PGCSIS09
+
+
 #include <stdio.h>
 
 void merge(int arr[], int l, int m, int r) {
