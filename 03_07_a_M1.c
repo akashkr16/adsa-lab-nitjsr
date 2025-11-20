@@ -1,7 +1,7 @@
 //Name: Akash Kumar
 //Roll No. : 2025PGCSIS09
 
-//Implement a circular queue using (a) an array (b) a linked list.
+//Implement a circular queue using (a) an array .
 //(a)
 
 #include <stdio.h>
