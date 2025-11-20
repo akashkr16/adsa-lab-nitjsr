@@ -1,6 +1,6 @@
 //Name : Akash Kumar
 //Roll No. : 2025PGCSIS09
-
+//Implement a queue using two stacks by Methods-2
 
 
 #include <stdio.h>
